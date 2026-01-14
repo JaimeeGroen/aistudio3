@@ -1,0 +1,5 @@
+{
+  "name": "PadelPriceTracker",
+  "description": "A price tracking dashboard for the Siux Electra ST4 Pro padel racket, featuring historical data visualization and AI-driven market analysis.",
+  "requestFramePermissions": []
+}
